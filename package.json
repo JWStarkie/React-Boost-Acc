@@ -1,0 +1,34 @@
+{
+  "name": "react-boost-acc",
+  "version": "1.0.0",
+  "description": "Accelerator for React.js and Node.js website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWStarkie/React-Boost-Acc.git"
+  },
+  "author": "Jo S. <jo_s_m@yahoo.com> (jwstarkie.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JWStarkie/React-Boost-Acc/issues"
+  },
+  "homepage": "https://github.com/JWStarkie/React-Boost-Acc#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "react-hot-loader": "^4.8.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
