@@ -1,1 +1,1 @@
-# React-Boost
+# React Boost Accelerator
